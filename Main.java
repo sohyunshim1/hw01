@@ -26,7 +26,7 @@ public class Main {
             System.out.println(book.getName());
         }
         */
-       
+        System.out.println("===20230831 심소현 ===\n");
         System.out.println("=== 소설 책 ===");
         Iterator<Book> it1 = bookShelf.iteratorByGenre("소설");
         while (it1.hasNext()) {
